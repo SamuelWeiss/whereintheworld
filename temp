@@ -1,0 +1,10 @@
+{
+  "name": "assignment_2",
+  "version": "1.0.0",
+  "description": "A basic node.js server using mongo",
+  "dependencies": {
+    "mongodb": "~2.0",
+    "express": "^4.10.2",
+    "socket.io": "^1.2.0"
+  },
+}
